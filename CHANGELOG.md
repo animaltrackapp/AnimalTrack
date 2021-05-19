@@ -4,7 +4,7 @@ This project follows semantic versioning.
 
 ## [Unreleased]
 
-*No changes yet.*
+*No unreleased content yet.*
 
 ---
 
