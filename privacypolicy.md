@@ -1,5 +1,7 @@
-Privacy Policy
-Last Modified on May 19, 2021
+# Privacy Policy  
+
+_Last Modified on May 19, 2021_  
+
 This is the privacy policy ("Privacy Policy") of the AnimalTrack App, and Android App, and describes how AnimalTrack ("AnimalTrack," "We," "Us" or "Our") manages Personal Information (as defined below) that users ("You," "Your” or "User") provide to Us, or that and through the AnimalTrack iOS App, and the AnimalTrack Android App.
 Your Consent
 You should read this entire Privacy Policy before submitting information to Us. Whenever You submit personal and non-personal information via to Us, whether online or offline, You consent to the collection, use disclosure, transfer, and storage of that information in accordance with this Privacy Policy.
