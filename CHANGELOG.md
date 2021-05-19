@@ -9,4 +9,4 @@ This project follows semantic versioning.
 ---
 
 
-[Unreleased]: https://github.com/animaltrackapp/general/edit/main/CHANGELOG.md
+[Unreleased]: https://github.com/animaltrackapp/general/blob/main/CHANGELOG.md
