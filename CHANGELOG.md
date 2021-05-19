@@ -2,4 +2,13 @@
 
 This project follows semantic versioning.
 
-<h1 color=#51a2ff>Unreleased</h1>
+<html>
+  <head>
+  
+  </head>
+  
+  <body>
+    <h1 color=#51a2ff>Unreleased</h1>
+  </body>
+</html>
+
