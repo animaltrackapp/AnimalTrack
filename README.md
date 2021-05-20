@@ -29,5 +29,3 @@ If you have any questions regarding to AnimalTrack, feel free to contact [animal
 <br><br><br><br>
 
 ![allthree](https://user-images.githubusercontent.com/80968217/118900410-e8a04480-b8de-11eb-87e9-7e486da26280.png)
-
-[animaltracksendemail@gmail.com]: animaltracksendemail@gmail.com
