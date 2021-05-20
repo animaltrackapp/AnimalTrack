@@ -25,3 +25,7 @@ Number of comments sent: 1 point per comment
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feature 4: Community and section points system. The communities and sections have their own point system, which is on a 5 base system. The elements that affect the score of a community or section are the number of observations, the number of different species, the number of people using the app in that area, and also the amount of contribution points together. For example, a section  might have a rate of 4 stars, or they might even have 4.6 stars.
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feature 5: Forums. This section of the AnimalTrack app is similar to the regular forms you see on the web. There is a topic and a description, and when you click the forum, it brings you to a page where members in that community can participate in. Note: Only community leaders can create forum topics, only members in that community can participate by commenting and chatting, and members outside of the community leader's community where they created the forum can not chat in it, but only view what others are saying.
+  
+  
+  
+![allthree](https://user-images.githubusercontent.com/80968217/118900410-e8a04480-b8de-11eb-87e9-7e486da26280.png)
