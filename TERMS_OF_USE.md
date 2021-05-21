@@ -1,6 +1,6 @@
 # Terms of Use  
 <br>  
-Last updated May , 2021  
+*Last updated May 21, 2021*
 <br>  
 Welcome to the AnimalTrack app ("AnimalTrack" or the "app"). The following Terms of Service, govern all use of the AnimalTrack iOS App and Android App and all content, services and products available at or through the apps and apps (collectively, the "App"). 
 
