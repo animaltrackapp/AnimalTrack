@@ -24,3 +24,5 @@ This project follows semantic versioning.
 
 ---
 
+[Unreleased]: https://github.com/animaltrackapp/general/blob/main/CHANGELOG.md
+[0.0.1]: https://github.com/animaltrackapp/general/blob/main/CHANGELOG.md
