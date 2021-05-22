@@ -12,15 +12,15 @@ This project follows semantic versioning.
 
 ### Fixed
 
-- RP file extraxted to form build 0.0.1
+- RP file extraxted to from build 0.0.1
 
 
 ### Additions
 
 - Entry page display when user first downloads the AnimalTrack app on IOS of Android
 - Location of user shows up on graphic content
+- Established community leader system
+- 
 
 ---
 
-[Unreleased]: https://github.com/animaltrackapp/general/blob/main/CHANGELOG.md
-[0.0.1]: https://github.com/animaltrackapp/general/blob/main/CHANGELOG.md
