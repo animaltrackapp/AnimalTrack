@@ -12,13 +12,16 @@ This project follows semantic versioning.
 
 ### Fixed
 
-- RP file extraxted to form build 0.0.1
+- RP file extraxted to from build 0.0.1
+- Removed shared & donate feature
 
 
 ### Additions
 
 - Entry page display when user first downloads the AnimalTrack app on IOS of Android
 - Location of user shows up on graphic content
+- Established community leader system
+- Add skip function to taking a picture
 
 ---
 

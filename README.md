@@ -1,4 +1,4 @@
-# general
+# AnimalTrack, in general
 
 ![logo1xSmall](https://user-images.githubusercontent.com/80968217/118900329-aaa32080-b8de-11eb-92cd-c5c61b174833.png)
 <br><br>
