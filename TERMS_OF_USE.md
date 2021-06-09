@@ -1,4 +1,4 @@
-Terms of Use
+# Terms of Use
 
 Last updated June 9 , 2021
 
