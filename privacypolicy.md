@@ -1,6 +1,6 @@
-# Privacy Policy  
+# Privacy Policy
 
-_Last Modified on May 19, 2021_  
+Last Modified on June 9, 2021
 
 This is the privacy policy ("Privacy Policy") of the AnimalTrack App, and Android App, and describes how AnimalTrack ("AnimalTrack," "We," "Us" or "Our") manages Personal Information (as defined below) that users ("You," "Your” or "User") provide to Us, or that and through the AnimalTrack iOS App, and the AnimalTrack Android App.
 Your Consent
@@ -15,7 +15,7 @@ How We Use Personal Information
 We may use the Personal Information that You provide in order to deliver the AnimalTrack Services, respond to Your inquiries, improve our services, business, manage our business including spam detection and fraud prevention purposes, for marketing, legal and research purposes, and to understand how You use Our services. If You register as an AnimalTrack User, You must give Us current, complete, and accurate information and keep the information You provide to Us up to date. We cannot and shall not be responsible for any problems or liability that may arise if You do not give Us current, accurate, truthful, or complete information or if You fail to update the information You give Us.
 
 When We Disclose and Share Personal Information
-Personal Information You provide related to the Observations You post (username, date, time, location) is published in venues on AnimalTrack where it is visible to anyone ("Published") as matter of normal usage and therefore is publicly shared with other AnimalTrack Users, whether or not they are signed in. We also explicitly and publicly share this information publicly in a machine-readable format with others.
+Personal Information You provide related to the Observations You post (username, date, time, location) is published in venues on AnimalTrack where it is visible to anyone ("Published") as matter of normal usage and therefore is publicly shared with other AnimalTrack Users, whether or not they are signed in. We also explicitly and publicly share this information publicly in a machine-readable or human readable format with others.
 We share Personal Information associated with Users’ registration and account (IP address, email address, etc.).
 AnimalTrack discloses Personal Information to contractors, service providers, consultants, and affiliated organizations that (i) need to know that information in order to process it on AnimalTrack's behalf or to provide Services available at AnimalTrack's Websites and Apps, and (ii) that have agreed not to disclose it to others, with the exception of non-public location data from Observations for non-commercial research, conservation, and species management purposes.
 Some of those contractors, service providers and affiliated organizations may be located outside of Your home country; by using the AnimalTrack App, You consent to the transfer of such information to them. AnimalTrack will not rent or sell Personal Information to anyone, except for animal/insect/plant or environmental organizations that we give information to such as the upload species, photo image, time, and location. We share your Personal information with entities that support Our business and operations such as hosting and data, communicating with You, fraud and spam detection, data analytics, and other legitimate business purposes including communicating with the Apple App Store and the Google Play Store.
@@ -41,7 +41,6 @@ Visitors 12 years of age and younger must obtain an adult's permission before su
 
 How We Protect Your Personal Information
 We are committed to protecting the Personal Information You share with Us through the use of AnimalTrack and We maintain reasonable physical, electronic and procedural safeguards to protect Your Personal Information. We limit access to Personal Information by Our own employees to individuals who are authorized for the proper handling of such information and any employee found violating Our standards of security and confidentiality is subject to Our disciplinary processes. We request Our service providers to follow the same policy. Unfortunately, We cannot guarantee that data transmitted over the Internet will always be secure. As a result, although We strive to protect Your Personal Information, We cannot ensure or warrant the security of any information You transmit or We may learn as a result of Your use of AnimalTrack and You do so at Your own risk. If, for any reason, You do not agree with this Privacy Policy, please do not use or attempt to take advantage of any of the information, services, features or functions of AnimalTrack that might require You to provide Your Personal Information.
-Please note that for Your safety and security, We may ask You to verify Your identity before responding to such requests. For any such information or requests, contact the AnimalTrack Data Protection Officer at privacy@AnimalTrack.org.
 Posting Observations
 If You do not wish to have the time, date, place, or other identifying information of an Observation included on AnimalTrack, You should not post an Observation. 
 Withdraw Consent
@@ -51,4 +50,5 @@ Although most changes are likely to be minor, AnimalTrack may change its Privacy
 Do Not Track Notice
 Because there are not yet common, industry accepted “do not track” standards and systems, the Websites may not respond to Do Not Track signals. In addition, we may allow third parties to collect Personal Information from your activity on our website, as described in this Privacy Policy.
 All Users
-If any User of Our Websites, Apps, or any Subscriber has any questions about this Privacy Policy, please contact the out email managing address, animaltracksendemail@gmail.com. 
+If any User of Our Websites, Apps, or any Subscriber has any questions about this Privacy Policy, please contact the email managing address, animaltracksendemail@gmail.com. 
+
