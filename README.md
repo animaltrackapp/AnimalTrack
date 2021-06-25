@@ -12,7 +12,7 @@
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;`Feature 3:` Contribution Points. This is a point system of where users can compete with each other of who has the most points. The factors that affect a user's contribution points are stated in the following:
 
-(Not including scam or fraud related factors)  
+(Not including scam factors)  
 Number of observations: 2 points per photo  
 Number of species: 4 points per different species that you upload  
 Number of people invited: 20 points per invited guest  
