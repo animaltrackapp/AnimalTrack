@@ -7,7 +7,7 @@ The `AnimalTrack iOS & Android app` allows users to upload different animal/inse
 ## Our Story
 2 years ago, ash trees in my backyard were destroyed by emerald ash borers. From that point on, I was thinking how we can quickly realize decreases like this and respond to them without delay. Plant infection might be hard to catch and stop, but tracking animals and insects could be achieved. If we had the knowledge that a particular animal species were down in an area, we would pay more attention and try to avoid causing more harm. This accumulates more notice in preserving wildlife.
 
-# Functionality
+### Functionality
 AnimalTrack divides locations by `communities` and `sections`. A community is a city or town where the user is in. Sections are small divided areas using longitude and latitude in a community that are useful for competition between nearby places.
 
 ### Map
