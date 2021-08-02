@@ -8,7 +8,6 @@ The `AnimalTrack iOS & Android app` allows users to upload different animal/inse
 2 years ago, ash trees in my backyard were destroyed by emerald ash borers. From that point on, I was thinking how we can quickly realize decreases like this and respond to them without delay. Plant infection might be hard to catch and stop, but tracking animals and insects could be achieved. If we had the knowledge that a particular animal species were down in an area, we would pay more attention and try to avoid causing more harm. This accumulates more notice in preserving wildlife.
 
 ## Functionality
-AnimalTrack divides locations by `communities` and `sections`. A community is a city or town where the user is in. Sections are small divided areas using longitude and latitude in a community that are useful for competition between nearby places.
 
 ### Map
 On the home page of AnimalTrack, it displays a map of the area you are in, and the image posts from other users. Thumbnails will appear the moment you post an image, and other users are able to open your image and explore on furture details such as the time, location, and species.
@@ -23,7 +22,7 @@ Community leaders are people that have access to hide users' posts if they conta
 - Have more than 500 `contribution points`.
 - Upload at least 3 photos per week.
 
-If these standards are met, the user will become a community leader.
+Note: The community leader function is unavailable during the first few months of deployment.
 
 ### Contribution points
 Contributions are points calculated to visually show how much a user has put into AnimalTrack. Factors that affect the score of a contribution is stated below:
@@ -38,13 +37,14 @@ Contributions are points calculated to visually show how much a user has put int
 -	Number of comments sent: __1 point__ per comment
 
 ### Refer code
-When a current user of AnimalTrack wants to invite one of their friends to join, they can do so within the app and send an invitation that includes a string of text which is called the `refer code` to the specified friend. This way, matching the contribution points system, the invitation sender would be able to receive more points when the receiver enters in the code when signing up.
+When a current user of AnimalTrack wants to invite one of their friends to join, they can do so within the app and send an invitation that includes a string of text to the specified friend. This way, matching the contribution points system, the invitation sender would be able to receive points when the receiver enters in the code when signing up.
 
 ### AI
-When users wish to upload a photo of an animal/insect that they have taken, AnimalTrack will automatically recognize the species with the AWS Rekognition API. When the recognition fails, you have the choice to manually type in the species if you already know it.
+When users wish to upload a photo of an animal/insect that they have taken, AnimalTrack will automatically recognize the species with the AWS Rekognition API. When the recognition fails, you have the choice to manually type in the species if you already know it. The AI functionality is using the [AWS Rekognition API].
 
 <br><br>
-If you have any questions, feel free to contact `animaltracksendemail@gmail.com`.
+If you have any questions, contact `animaltracksendemail@gmail.com`.
 <br><br><br><br>
 
+[AWS Rekognition API]: https://aws.amazon.com/rekognition/?blog-cards.sort-by=item.additionalFields.createdDate&blog-cards.sort-order=desc
 ![allthree](https://user-images.githubusercontent.com/80968217/118900410-e8a04480-b8de-11eb-87e9-7e486da26280.png)
