@@ -19,7 +19,7 @@ People can create and talk in forums about animal protection, their current loca
 Community leaders are people that have access to hide users' posts if they contain inappropriate, offensive, or not related to AnimalTrack content. Not everyone can become a community leader. The following states the standards that must be met to become one:
 
 - Be in the top 10% of their community.
-- Have more than 500 `contribution points`.
+- Have more than 500 [contribution points].
 - Upload at least 3 photos per week.
 
 Note: The community leader function is unavailable during the first few months of deployment.
@@ -47,4 +47,5 @@ If you have any questions, contact `animaltracksendemail@gmail.com`.
 <br><br><br><br>
 
 [AWS Rekognition API]: https://aws.amazon.com/rekognition/?blog-cards.sort-by=item.additionalFields.createdDate&blog-cards.sort-order=desc
+[contribution points]: https://github.com/animaltrackapp/AnimalTrack#contribution-points
 ![allthree](https://user-images.githubusercontent.com/80968217/118900410-e8a04480-b8de-11eb-87e9-7e486da26280.png)
