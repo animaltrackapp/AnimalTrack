@@ -13,7 +13,7 @@ We believe that it is everyone's responsibility to care for the Earth, raise pub
 ## Functionality
 
 ### Map
-On the home page of AnimalTrack, it displays a map of the area you are in, and the image posts from other users. Thumbnails will appear the moment you post an image, and other users are able to open your image and explore on furture details such as the time, location, and species.
+On the home page of AnimalTrack, it displays a map of the area you are in, and the image posts from other users. Thumbnails will appear the moment you post an image, and other users are able to open your image and explore on further details such as the time, location, and species.
 
 ### Forum
 People can create and talk in forums about animal protection, their current location biodiversity, bugs with the app, etc. Only people in the same area as the creator of the forum can fully participate in discussions and commenting, while if someone is outside the limit, they can only view what other people are saying, and not be able to comment.
